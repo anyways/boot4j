@@ -1,0 +1,6 @@
+# vscode configuration
+.vscode/
+
+# compile files
+*.exe
+*.o
